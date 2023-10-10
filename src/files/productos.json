@@ -72,23 +72,14 @@
 		"id": 8
 	},
 	{
-		"title": "Set Cuarzo Rosa",
-		"description": "Set de guasha y roller facial de cuarzo rosa",
-		"price": 11000,
-		"thumbnail": "https://res.cloudinary.com/dxvjohjkl/image/upload/v1682056955/382701-1600-1600_ve1ypj.jpg",
-		"code": "SetsCUA",
-		"stock": 3,
-		"id": 9
-	},
-	{
-		"title": "Cryo Sticks",
+		"title": "Cryo Sticks2",
 		"description": "Sticks para masaje en frío",
 		"price": 15000,
 		"thumbnail": "Sin imagen",
-		"code": "cryooo",
+		"code": "cryooo2",
 		"stock": 1,
 		"status": true,
 		"category": "Cryo",
-		"id": 10
+		"id": 9
 	}
 ]

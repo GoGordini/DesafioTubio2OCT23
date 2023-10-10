@@ -3,9 +3,10 @@ const socket = io()
 
 
 const container = document.getElementById('container')
+const formAdd= document.getElementsById("formAdd")
 
 socket.on('showProducts', data => {
-   
+  //  formAdd.addEventListener("submit",function(e){e.preventDefault()})
     container.innerHTML = ``
 
     data.products.forEach(prod => {
